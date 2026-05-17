@@ -122,14 +122,14 @@ const Nav = () => {
           <div className="flex flex-col">
             <strong className="font-bold text-[15px] leading-[1.1] tracking-[-0.3px]"
               style={{ fontFamily: "'Playfair Display',Georgia,serif", color: C.navy }}>CodersBloom</strong>
-            <span className="hidden sm:block text-[9px] font-medium tracking-[1.5px] uppercase"
+            <span className="text-[9px] font-medium tracking-[1.5px] uppercase"
               style={{ color: C.stone }}>About Us</span>
           </div>
           <div className="border h-10 border-l-2 border-gray-700"></div>
           <div className="flex flex-col">
             <strong className="font-bold text-[15px] leading-[1.1] tracking-[-0.3px]"
               style={{ fontFamily: "'Playfair Display',Georgia,serif", color: C.navy }}>17+</strong>
-            <span className="hidden sm:block text-[9px] font-medium tracking-[1.5px] uppercase"
+            <span className="text-[9px] font-medium tracking-[1.5px] uppercase"
               style={{ color: C.stone }}>years</span>
           </div>
         </a>
