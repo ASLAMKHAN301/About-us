@@ -1098,9 +1098,7 @@ export default function App() {
         <AnnounceBanner />
         <Nav />
         <Hero />
-        <Origin />
-        <Model />
-        <Locations />
+        
         <Testimonials />
         <FAQ />
         <BottomCTA />
