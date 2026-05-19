@@ -208,7 +208,7 @@ const Nav = () => {
               className="text-[9px] font-medium tracking-[1.5px] uppercase"
               style={{ color: C.stone }}
             >
-              About Us
+              Training & Placement
             </span>
           </div>
           <div className="border h-10 border-l-2 border-gray-700"></div>
